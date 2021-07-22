@@ -1,3 +1,6 @@
+## Primeira tentativa de previsão do faturamento dos clientes iMAIS, usando
+## Séries Temporais
+
 dados = "Cli2843.csv"
 attach(dados)
 names(dados)
